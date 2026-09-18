@@ -5,6 +5,7 @@
 ### Artificial Intelligence
 
 **Professor:** MSc. Daniel Isaías López Páez
+
 **Degree:** Biomedical Engineering
 
 ### Team Members
