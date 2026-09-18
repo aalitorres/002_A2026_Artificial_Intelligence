@@ -18,5 +18,7 @@
 | Valeria Cruz Gálvez               | 2001021 |
 
 **Group:** 002
+
 **Schedule:** Thursday N3–N6
+
 **Classroom:** 12205
