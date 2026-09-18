@@ -10,13 +10,10 @@
 
 ### Team Members
 
-| Student                           |      ID |
-| :-------------------------------- | ------: |
-| Alisson Michelle Sepúlveda Torres | 2115253 |
-| María Fernanda Tinoco Lopez       | 2103898 |
-| Mariana Vázquez De León           | 2114697 |
-| Valeria Cruz Gálvez               | 2001021 |
-
+* **Alisson Michelle Sepúlveda Torres** — 2115253
+* **María Fernanda Tinoco Lopez** — 2103898
+* **Mariana Vázquez De León** — 2114697
+* **Valeria Cruz Gálvez** — 2001021
 
 **Group:** 002
 
